@@ -22,7 +22,7 @@ If no project name is entered, the project will be named by the customer surname
 Once a project has been created, the program will provide options to modify or finalize the project.
 
 ## Features in development
-Updates planned for May 2020:
+Planned Updates:
 - Allow user to update all project information
 - Allow user to see a list of pending projects
 - Allow user to see a list of overdue projects
